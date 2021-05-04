@@ -1,0 +1,17 @@
+{
+    "name": "pepito/authentification",
+    "authors": [
+        {
+            "name": "PepitoRigolo",
+            "email": "romain.ricard.dev@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
